@@ -300,3 +300,6 @@ target/
 *.wrn
 objchk_*/
 objfre_*/
+
+# Visual Studio
+.vs
